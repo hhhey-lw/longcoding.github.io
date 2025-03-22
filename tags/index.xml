@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on LongCoding&#39;s Blog</title>
+    <link>http://121.40.252.207/tags/</link>
+    <description>Recent content in Tags on LongCoding&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 16 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://121.40.252.207/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Commands</title>
+      <link>http://121.40.252.207/tags/commands/</link>
+      <pubDate>Sun, 16 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://121.40.252.207/tags/commands/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Collection</title>
+      <link>http://121.40.252.207/tags/collection/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://121.40.252.207/tags/collection/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>JVM</title>
+      <link>http://121.40.252.207/tags/jvm/</link>
+      <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://121.40.252.207/tags/jvm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>JUC</title>
+      <link>http://121.40.252.207/tags/juc/</link>
+      <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://121.40.252.207/tags/juc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MySQL</title>
+      <link>http://121.40.252.207/tags/mysql/</link>
+      <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://121.40.252.207/tags/mysql/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Redis</title>
+      <link>http://121.40.252.207/tags/redis/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://121.40.252.207/tags/redis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Java</title>
+      <link>http://121.40.252.207/tags/java/</link>
+      <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://121.40.252.207/tags/java/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SQL</title>
+      <link>http://121.40.252.207/tags/sql/</link>
+      <pubDate>Sun, 24 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://121.40.252.207/tags/sql/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DL</title>
+      <link>http://121.40.252.207/tags/dl/</link>
+      <pubDate>Thu, 31 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://121.40.252.207/tags/dl/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hot100</title>
+      <link>http://121.40.252.207/tags/hot100/</link>
+      <pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://121.40.252.207/tags/hot100/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
